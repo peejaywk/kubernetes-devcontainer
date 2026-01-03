@@ -1,2 +1,3 @@
 # kubernetes-devcontainer
-Environment that cantains all the tools required for working with Kubernetes (local and cloud)
+Environment that contains all the tools required for working with local and cloud based Kubernetes cluster.
+
