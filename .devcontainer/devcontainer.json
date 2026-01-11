@@ -10,5 +10,8 @@
       "onAutoForward": "notify"
     }
   },
+  "mounts": [
+    "type=bind,source=${localWorkspaceFolder}/.devcontainer/.bash_history,target=/home/vscode/.bash_history"
+  ],
   "postCreateCommand": "scripts/setup"
 }
